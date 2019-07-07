@@ -2,6 +2,13 @@
 
 DevOps Work Experience Repository for AGS
 
+## What Are We Going to Do, Then?
+
+We're going to configure a web server to display a web page that will display some information about the server.
+We're also going to do a 5 minute presentation and demo at the end of the week, so be sure to take notes.
+
+We will make changes to the server with code that automates the configuration.
+Why do we store the configuration in code? Why do we automate? Ask!
 
 ## Prerequisites
 
