@@ -1,6 +1,6 @@
 ---
 - name: install the latest version of nginx
-  yum: 
-  	name: nginx 
-  	state: latest
+  package: 
+    name: nginx 
+    state: latest
 

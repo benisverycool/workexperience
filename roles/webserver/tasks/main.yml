@@ -1,9 +1,9 @@
 ---
-name: Install nginx
+- name: Install nginx
   include:
     - install.yml
 
-name: Start/Restart nginx
+- name: Start/Restart nginx
   include: 
     - restart.yml
 
