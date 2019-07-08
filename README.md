@@ -32,6 +32,7 @@ Once you are connected to your instance, we'll do the following:
 We need a program that will let us manage our code. We're going to use Git. For an overview of what Git is/does, watch these two videos:
 
 https://git-scm.com/video/what-is-version-control
+
 https://git-scm.com/video/what-is-git
 
 Don't forget you can ask questions at any point!
