@@ -5,3 +5,5 @@
 - name: Start/Restart nginx
   include: restart.yml
 
+- name: createindex/
+  include: createindex.yml
