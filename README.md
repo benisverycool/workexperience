@@ -207,13 +207,14 @@ For example, you could make an `about.html` page. You could link to it from the 
 
 `<a href="about.html">about</a>`
 
-Here's some things to maybe try:
+### Here's some things to maybe try:
 
 * Can you set up your site so it has the same links at the top of each page, like a navigation menu?
 * Can you think of a way you might do that without having to enter the same list of links on every template?  
 * Can you create a set of pages that don't have links to the current page, only the other pages? e.g. the index.html page only links to the about.html and news.html pages, the about.html page only links to the index.html and news.html pages, and the news.html page only links to the index.html and about.html page?
 
-Here's some things to think about for the next work:
+
+### Here's some things to think about for the next work:
 
 * What other things could you add to the site?
 * What things might change about the server over time that you might be able to display?
@@ -221,11 +222,15 @@ Here's some things to think about for the next work:
 * Do you think you know what you need to do to set up a new server if this one stopped working?
 * What else could we automate to make it even easier?
 
+
+
 Have a look at the different modules in ansible: https://docs.ansible.com/ansible/latest/modules/modules_by_category.html
 Especially look at these:
 * Files modules: https://docs.ansible.com/ansible/latest/modules/list_of_files_modules.html
 * Commands modules: https://docs.ansible.com/ansible/latest/modules/list_of_commands_modules.html
 An example: You might get the system time and date by running the command `date` and then adding that to one of your pages.
+
+
 
 Have a look at the built-in ansible plugins: https://docs.ansible.com/ansible/latest/plugins/plugins.html
 Would any of these be useful/fun?
