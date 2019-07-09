@@ -25,7 +25,7 @@ The first thing to do is to connect to your instance - that's the server you'll 
 4. Click on the "Start Session" button
 5. Ask in Slack for your instance ID
 
-** Remember **
+**Remember**
 
 To switch to the ec2-user account:
 
@@ -80,7 +80,7 @@ Now we can install ansible with the command:
 
 `sudo pip install ansible`
 
-** Remember **
+**Remember**
 
 You need to set your $PATH environment variable correctly to run ansible. You can do this temporarily with:
 
